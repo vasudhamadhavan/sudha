@@ -1,0 +1,18 @@
+.body {
+  position: relative;
+}
+
+.home {
+  .site-title {
+    color: white;
+  }
+  nav .page-link {
+    color: white;
+  }
+
+  .image-cover {
+    position: absolute;
+    top: 0;
+    z-index: -99999;
+  }
+}
