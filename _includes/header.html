@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <span class="first-name">Sudha</span>
+      <span>Madhavan</span>
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,14 +17,11 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="/"> Home </a>
+        <a class="page-link" href="/collection"> Collection </a>
+        <a class="page-link" href="/writings"> Writings </a>
+        <a class="page-link" href="/about"> About </a>
       </div>
     </nav>
-
   </div>
-
 </header>
