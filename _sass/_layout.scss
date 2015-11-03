@@ -1,12 +1,19 @@
 /**
+ * Disable scroll
+ */
+.full {
+    overflow-y: hidden;
+}
+
+/**
  * Site header
  */
 .site-header {
-    // min-height: 56px;
+    min-height: 90px;
 
     // // Positioning context for the mobile navigation icon
     // position: relative;
-    font-family: Josefin Sans, sans-serif;
+    font-family: $header-font-family;
     a {
         text-decoration: none;
     }

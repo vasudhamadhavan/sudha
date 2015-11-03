@@ -1,0 +1,29 @@
+.about {
+  .site-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    a {
+      color: white;
+    }
+  }
+
+  .about-hero {
+    height: 400px;
+    margin-bottom: 50px;
+    background-color: white;
+    background: url('/images/sudha.jpg') center center no-repeat;
+    background-size: cover;
+  }
+
+  .about-description {
+    width: 50%;
+    margin: 0 auto;
+    line-height: 1.5em;
+    font-size: 1.3em;
+    p {
+      margin-bottom: 30px;
+    }
+  }
+}
