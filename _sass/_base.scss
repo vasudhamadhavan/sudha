@@ -170,6 +170,11 @@ pre {
     }
 }
 
+.one-third {
+    display: inline-block;
+    width: -webkit-calc(100%/3);
+    width: calc(100%/3);
+}
 
 /**
  * Clearfix
