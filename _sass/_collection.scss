@@ -1,9 +1,8 @@
 $thumbnail-gutter-width: 16px;
 
 .collection {
-  margin-top: 50px;
-
   .thumbnail-wrapper {
+    margin-top: 50px;
     margin-left: $thumbnail-gutter-width;
     width: -webkit-calc(100%/3 - 13px);
     width: calc(100%/3 - 13px);
