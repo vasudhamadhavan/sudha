@@ -1,5 +1,21 @@
 ---
 permalink: /collection/
+paintings:
+  - name: The Bhutanese Man
+    image_path: "/images/the-bhutanese-man.jpg"
+    thumbnail_path: "/images/the-bhutanese-man-960x640.jpg"
+  - name: Mother and Infant
+    image_path: "/images/mother-and-infant.jpg"
+    thumbnail_path: "/images/mother-and-infant-960x640.jpg"
+  - name: Absorption
+    image_path: "/images/absorption.jpg"
+    thumbnail_path: "/images/absorption-960x640.jpg"
+  - name: Himachali Woman
+    image_path: "/images/himachali-woman.jpg"
+    thumbnail_path: "/images/himachali-woman-960x640.jpg"
+  - name: The Lambani Woman
+    image_path: "/images/the-lambani-woman.jpg"
+    thumbnail_path: "/images/the-lambani-woman-960x640.jpg"
 ---
 
 <!DOCTYPE html>
@@ -28,31 +44,13 @@ permalink: /collection/
       </div>
 
       <div class="wrapper">
-        <div class="thumbnail-wrapper one-third">
-          <a href="/images/the-bhutanese-man.jpg" class="mfp-image image-link">
-            <img src="/images/the-bhutanese-man-960x640.jpg"></img>
-          </a>
-        </div>
-        <div class="thumbnail-wrapper one-third">
-          <a href="/images/mother-and-infant.jpg" class="mfp-image image-link">
-            <img src="/images/mother-and-infant-960x640.jpg"></img>
-          </a>
-        </div>
-        <div class="thumbnail-wrapper one-third">
-          <a href="/images/absorption.jpg" class="mfp-image image-link">
-            <img src="/images/absorption-960x640.jpg"></img>
-          </a>
-        </div>
-        <div class="thumbnail-wrapper one-third">
-          <a href="/images/himachali-woman.jpg" class="mfp-image image-link">
-            <img src="/images/himachali-woman-960x640.jpg"></img>
-          </a>
-        </div>
-        <div class="thumbnail-wrapper one-third">
-          <a href="/images/the-lambani-woman.jpg" class="mfp-image image-link">
-            <img src="/images/the-lambani-woman-960x640.jpg"></img>
-          </a>
-        </div>
+        {% for painting in page.paintings  %}
+          <div class="thumbnail-wrapper one-third">
+            <a href={{ painting.image_path }} class="mfp-image image-link">
+              <img src={{ painting.thumbnail_path }}></img>
+            </a>
+          </div>
+        {% endfor %}
       </div>
     </div>
 
