@@ -1,6 +1,39 @@
+$collection-nav-item-width: 40px;
+$collection-nav-item-padding: 25px;
+$collection-nav-item-total-border: 4px;
 $thumbnail-gutter-width: 16px;
 
 .collection {
+  .collection-nav {
+    margin: 40px auto 20px;
+    width: $collection-nav-item-total-border + ($collection-nav-item-width + $collection-nav-item-padding * 2) * 3;
+    ul {
+      margin: 0;
+      list-style: none;
+      @extend %clearfix;
+    }
+  }
+
+  .collection-nav-item {
+    float: left;
+    border: 1px solid black;
+    text-align: center;
+    a {
+      display: inline-block;
+      width: $collection-nav-item-width;
+      padding: 5px $collection-nav-item-padding;
+      text-decoration: none;
+      text-align: center;
+      color: black;
+    }
+    &:first-child {
+      border-right: none;
+    }
+    &:last-child {
+      border-left: none;
+    }
+  }
+
   .thumbnail-wrapper {
     margin-top: 50px;
     margin-left: $thumbnail-gutter-width;
