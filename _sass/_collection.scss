@@ -32,6 +32,9 @@ $thumbnail-gutter-width: 16px;
     &:last-child {
       border-left: none;
     }
+    &.selected {
+      background-color: #eee;
+    }
   }
 
   .thumbnail-wrapper {

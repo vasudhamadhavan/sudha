@@ -1,23 +1,3 @@
----
-permalink: /collection/
-paintings:
-  - name: The Bhutanese Man
-    image_path: "/images/the-bhutanese-man.jpg"
-    thumbnail_path: "/images/the-bhutanese-man-960x640.jpg"
-  - name: Mother and Infant
-    image_path: "/images/mother-and-infant.jpg"
-    thumbnail_path: "/images/mother-and-infant-960x640.jpg"
-  - name: Absorption
-    image_path: "/images/absorption.jpg"
-    thumbnail_path: "/images/absorption-960x640.jpg"
-  - name: Himachali Woman
-    image_path: "/images/himachali-woman.jpg"
-    thumbnail_path: "/images/himachali-woman-960x640.jpg"
-  - name: The Lambani Woman
-    image_path: "/images/the-lambani-woman.jpg"
-    thumbnail_path: "/images/the-lambani-woman-960x640.jpg"
----
-
 <!DOCTYPE html>
 <html>
 
@@ -26,18 +6,27 @@ paintings:
   <body>
     {% include header.html %}
 
+    {% if page.selected == 'all' %}
+      {% assign allClass = 'selected' %}
+    {% endif %}
+    {% if page.selected == 'people' %}
+      {% assign peopleClass = 'selected' %}
+    {% endif %}
+    {% if page.selected == 'nature' %}
+      {% assign natureClass = 'selected' %}
+    {% endif %}
     <div class="collection">
       <div class="wrapper">
         <nav class="collection-nav">
           <ul>
-            <li class="collection-nav-item">
+            <li class="collection-nav-item {{ allClass }}">
               <a href="#">All</a>
             </li>
-            <li class="collection-nav-item">
-              <a href="#">People</a>
+            <li class="collection-nav-item {{ peopleClass }}">
+              <a href="/collection/people">People</a>
             </li>
-            <li class="collection-nav-item">
-              <a href="#">Nature</a>
+            <li class="collection-nav-item {{ natureClass }}">
+              <a href="/collection/nature">Nature</a>
             </li>
           </ul>
         </nav>
