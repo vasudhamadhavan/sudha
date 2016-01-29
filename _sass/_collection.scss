@@ -1,12 +1,15 @@
-$collection-nav-item-width: 40px;
+$collection-nav-item-count: 4;
 $collection-nav-item-padding: 25px;
-$collection-nav-item-total-border: 4px;
+$collection-nav-item-width: 40px;
+$collection-nav-item-total-border: (1px * $collection-nav-item-count) + 1;
+$collection-nav-item-total-width: ($collection-nav-item-width + $collection-nav-item-padding * 2) * $collection-nav-item-count;
 $thumbnail-gutter-width: 16px;
 
 .collection {
   .collection-nav {
     margin: 40px auto 20px;
-    width: $collection-nav-item-total-border + ($collection-nav-item-width + $collection-nav-item-padding * 2) * 3;
+    width: $collection-nav-item-total-border + $collection-nav-item-total-width;
+
     ul {
       margin: 0;
       list-style: none;
@@ -16,7 +19,9 @@ $thumbnail-gutter-width: 16px;
 
   .collection-nav-item {
     float: left;
-    border: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
     text-align: center;
     a {
       display: inline-block;
@@ -27,10 +32,7 @@ $thumbnail-gutter-width: 16px;
       color: black;
     }
     &:first-child {
-      border-right: none;
-    }
-    &:last-child {
-      border-left: none;
+      border-left: 1px solid black;
     }
     &.selected {
       background-color: #eee;

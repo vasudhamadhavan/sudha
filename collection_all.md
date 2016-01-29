@@ -18,4 +18,22 @@ paintings:
   - name: The Lambani Woman
     image_path: "/images/the-lambani-woman.jpg"
     thumbnail_path: "/images/the-lambani-woman-960x640.jpg"
+  - name: A Tribute to Ladakh
+    image_path: "/images/a-tribute-to-ladakh.jpg"
+    thumbnail_path: "/images/a-tribute-to-ladakh-960x640.jpg"
+  - name: Pink Flamingoes
+    image_path: "/images/pink-flamingoes.jpg"
+    thumbnail_path: "/images/pink-flamingoes-960x640.jpg"
+  - name: Scarlett Ibis
+    image_path: "/images/scarlett-ibis.jpg"
+    thumbnail_path: "/images/scarlett-ibis-960x640.jpg"
+  - name: Springtime in Bangalore
+    image_path: "/images/springtime-in-bangalore.jpg"
+    thumbnail_path: "/images/springtime-in-bangalore-960x640.jpg"
+  - name: Sikkimese Tea Tray
+    image_path: "/images/sikkimese-tea-tray.jpg"
+    thumbnail_path: "/images/sikkimese-tea-tray-960x640.jpg"
+  - name: Table Top, A Still Life
+    image_path: "/images/table-top-a-still-life.jpg"
+    thumbnail_path: "/images/table-top-a-still-life-960x640.jpg"
 ---

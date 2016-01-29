@@ -15,18 +15,24 @@
     {% if page.selected == 'nature' %}
       {% assign natureClass = 'selected' %}
     {% endif %}
+    {% if page.selected == 'others' %}
+      {% assign othersClass = 'selected' %}
+    {% endif %}
     <div class="collection">
       <div class="wrapper">
         <nav class="collection-nav">
           <ul>
             <li class="collection-nav-item {{ allClass }}">
-              <a href="#">All</a>
+              <a href="/collection/all">All</a>
             </li>
             <li class="collection-nav-item {{ peopleClass }}">
               <a href="/collection/people">People</a>
             </li>
             <li class="collection-nav-item {{ natureClass }}">
               <a href="/collection/nature">Nature</a>
+            </li>
+            <li class="collection-nav-item {{ othersClass }}">
+              <a href="/collection/others">Others</a>
             </li>
           </ul>
         </nav>
