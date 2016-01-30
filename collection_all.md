@@ -18,6 +18,12 @@ paintings:
   - name: The Lambani Woman
     image_path: "/images/the-lambani-woman.jpg"
     thumbnail_path: "/images/the-lambani-woman-960x640.jpg"
+  - name: The Murals of Lepakshi
+    image_path: "/images/murals-of-lepakshi.jpg"
+    thumbnail_path: "/images/murals-of-lepakshi-960x640.jpg"
+  - name: Woman with Fruit, A Raja Ravivarma Inspiration
+    image_path: "/images/woman-with-fruit.jpg"
+    thumbnail_path: "/images/woman-with-fruit-960x640.jpg"
   - name: A Tribute to Ladakh
     image_path: "/images/a-tribute-to-ladakh.jpg"
     thumbnail_path: "/images/a-tribute-to-ladakh-960x640.jpg"
@@ -30,6 +36,12 @@ paintings:
   - name: Springtime in Bangalore
     image_path: "/images/springtime-in-bangalore.jpg"
     thumbnail_path: "/images/springtime-in-bangalore-960x640.jpg"
+  - name: Arches of the Holy, The Cathedral of Canterbury
+    image_path: "/images/arches-of-the-holy.jpg"
+    thumbnail_path: "/images/arches-of-the-holy-960x640.jpg"
+  - name: Spanish Courtyard, Oil on Canvas
+    image_path: "/images/spanish-courtyard-oil-on-canvas.jpg"
+    thumbnail_path: "/images/spanish-courtyard-oil-on-canvas-960x640.jpg"
   - name: Sikkimese Tea Tray
     image_path: "/images/sikkimese-tea-tray.jpg"
     thumbnail_path: "/images/sikkimese-tea-tray-960x640.jpg"
