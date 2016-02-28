@@ -5,6 +5,7 @@ description: >
   Sudha Madhavan's collection of artwork
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown

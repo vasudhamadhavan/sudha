@@ -15,7 +15,7 @@ layout: default
             {{ post.published_in }}
           </div>
           <div class="post-item-content-blurb">
-            {{ post.blurb }}
+            {{ post.excerpt | strip_html }}
           </div>
           <a href="#" class="post-item-content-read-more">
             Read More

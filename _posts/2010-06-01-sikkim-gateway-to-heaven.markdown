@@ -1,11 +1,11 @@
 ---
 layout: writings
-title:  "Gateway to Heaven"
+title:  "Sikkim - Gateway to Heaven"
+image_path: '/images/2010-06-01-sikkim-gateway-to-heaven.jpg'
+published_in: 'Metro Plus, The Hindu on June 01, 2010'
 ---
 
-Perched in the heady heights of the Himalayas, Sikkim offers a blend of breathtaking scenery and a unique cultural landscape…
-
-Sitting cosily ensconced between the erstwhile kingdom of Nepal and the Bhutanese monarchy is the state of Sikkim. An erstwhile monarchy ruled by the Chogyals; due to security and administrative problems it was granted statehood, on May 16, 1975, becoming the 22nd state of the Indian Democracy.
+Perched in the heady heights of the Himalayas, Sikkim offers a blend of breathtaking scenery and a unique cultural landscape. Sitting cosily ensconced between the erstwhile kingdom of Nepal and the Bhutanese monarchy is the state of Sikkim. An erstwhile monarchy ruled by the Chogyals; due to security and administrative problems it was granted Statehood, on May 16, 1975, becoming the 22nd state of the Indian Democracy. <!--more-->
 
 It is an absolute tourist paradise, with all places of interest just involving ‘not-too-long' jeep rides and ‘just- that-little' climb-ups, to place you deftly in the middle of the most amazing monasteries, lakes and the grandeur of the second tallest peak, the Khangchendzonga.
 
@@ -56,5 +56,3 @@ How indeed does one fill up the senses with the sounds and sights of a place lik
 Magnificent
 
 Kanchenjunga reigns royally over Sikkim, now appearing and now disappearing mysteriously from view as one walks along the twists and turns of the winding lanes of Gangtok. We walked around in a daze with our eyes on the tantalising view of the mountains, tripping over things that came in the way! And feeling absolutely envious of the Sikkimese, living veritably under its magnificent presence! The thrill of seeing the sun rise on the peak and turn it golden is out of this world. We got up in the freezing cold and went up to the terrace at 5 a.m. to watch the sun touch the tip and set it afire. An unforgettable experience, indeed!
-
-Keywords: tourism, Sikkim tourist spots, holiday
