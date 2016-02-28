@@ -41,7 +41,7 @@
       <div class="wrapper">
         {% for painting in page.paintings  %}
           <div class="thumbnail-wrapper one-third">
-            <a href="{{ painting.image_path }}" title="{{ painting.name }}" class="mfp-image image-link">
+            <a href="{{ painting.popup_path }}" title="{{ painting.name }}" class="image-link">
               <img src="{{ painting.thumbnail_path }}"></img>
             </a>
           </div>
@@ -54,7 +54,9 @@
 
     <script type="text/javascript">
       $(document).ready(function(){
-        $('.image-link').magnificPopup();
+        $('.image-link').magnificPopup({
+          type: 'ajax'
+        });
       });
     </script>
   </body>

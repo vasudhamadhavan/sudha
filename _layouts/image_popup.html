@@ -14,15 +14,17 @@
               {{ page.medium }}
             </div>
             <div class="image-popup-size">
-              {{ page.size }}
+              {{ page.painting_size }}
             </div>
           </div>
-          <div class="image-popup-verse">
-            {{ content }}
-          </div>
-          <div class="image-popup-author">
-            By Sudha Madhavan
-          </div>
+          {% if content.size > 1 %}
+            <div class="image-popup-verse">
+              {{ content }}
+            </div>
+            <div class="image-popup-author">
+              By Sudha Madhavan
+            </div>
+          {% endif %}
         </div>
       </div>
     </div>

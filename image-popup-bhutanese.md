@@ -3,7 +3,7 @@ layout: image_popup
 permalink: 'image-popups/the-bhutanese-man.html'
 title: 'The Bhutanese Man'
 medium: 'Oil on Canvas'
-size: '60" x 40"'
+painting_size: '60" x 40"'
 image_url: '/images/the-bhutanese-man.jpg'
 ---
 
