@@ -31,18 +31,24 @@ paintings:
     image_path: '/images/woman-with-fruit.jpg'
     thumbnail_path: '/images/woman-with-fruit-960x640.jpg'
     popup_path: '/image-popups/woman-with-fruit.html'
+
   - name: A Tribute to Ladakh
-    image_path: "/images/a-tribute-to-ladakh.jpg"
-    thumbnail_path: "/images/a-tribute-to-ladakh-960x640.jpg"
+    image_path: '/images/a-tribute-to-ladakh.jpg'
+    thumbnail_path: '/images/a-tribute-to-ladakh-960x640.jpg'
+    popup_path: '/image-popups/a-tribute-to-ladakh.html'
   - name: Pink Flamingoes
-    image_path: "/images/pink-flamingoes.jpg"
-    thumbnail_path: "/images/pink-flamingoes-960x640.jpg"
+    image_path: '/images/pink-flamingoes.jpg'
+    thumbnail_path: '/images/pink-flamingoes-960x640.jpg'
+    popup_path: '/image-popups/pink-flamingoes.html'
   - name: Scarlett Ibis
-    image_path: "/images/scarlett-ibis.jpg"
-    thumbnail_path: "/images/scarlett-ibis-960x640.jpg"
+    image_path: '/images/scarlett-ibis.jpg'
+    thumbnail_path: '/images/scarlett-ibis-960x640.jpg'
+    popup_path: '/image-popups/scarlett-ibis.html'
   - name: Springtime in Bangalore
-    image_path: "/images/springtime-in-bangalore.jpg"
-    thumbnail_path: "/images/springtime-in-bangalore-960x640.jpg"
+    image_path: '/images/springtime-in-bangalore.jpg'
+    thumbnail_path: '/images/springtime-in-bangalore-960x640.jpg'
+    popup_path: '/image-popups/springtime-in-bangalore.html'
+
   - name: Arches of the Holy, The Cathedral of Canterbury
     image_path: "/images/arches-of-the-holy.jpg"
     thumbnail_path: "/images/arches-of-the-holy-960x640.jpg"
