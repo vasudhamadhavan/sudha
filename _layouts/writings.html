@@ -6,8 +6,21 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post-item">
-        {{ post.title }}
-        {{ post.content }}
+        <img class="post-item-image" src="{{ post.image_path }}" />
+        <div class="post-item-content">
+          <div class="post-item-content-title">
+            {{ post.title }}
+          </div>
+          <div class="post-item-content-published-in">
+            {{ post.published_in }}
+          </div>
+          <div class="post-item-content-blurb">
+            {{ post.blurb }}
+          </div>
+          <a href="#" class="post-item-content-read-more">
+            Read More
+          </a>
+        </div>
         <!-- <span class="post-item-meta surplus">{{ post.date | date: "%b %-d, %Y" }}</span> -->
         <!-- <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

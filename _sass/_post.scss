@@ -1,0 +1,35 @@
+.post-item {
+  margin-bottom: 30px;
+}
+
+.post-item-image {
+  width: 250px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.post-item-content {
+  margin-left: 10px;
+  display: inline-block;
+  width: 63%;
+}
+
+.post-item-content-title {
+  margin-bottom: 5px;
+  font-weight: bolder;
+  font-size: 1.2em;
+}
+
+.post-item-content-published-in {
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+.post-item-content-blurb {
+  line-height: 1.5em;
+  margin-bottom: 17px;
+}
+
+.post-item-content-read-more {
+  text-decoration: none;
+}
