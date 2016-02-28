@@ -1,0 +1,30 @@
+.image-popup-wrapper.wrapper {
+  width: 60%;
+}
+
+.image-popup {
+  background: white;
+  &.wrapper {
+    width: 60%;
+  }
+}
+
+.image-popup-content {
+  padding: 20px;
+}
+
+.image-popup-meta {
+  margin-bottom: 20px;
+}
+
+.image-popup-title {
+  font-weight: bolder;
+}
+
+.image-popup-verse {
+  font-style: italic;
+  p {
+    margin-bottom: 5px;
+  }
+  margin-bottom: 20px;
+}

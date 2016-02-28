@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="wrapper image-popup-wrapper">
+      <div class="image-popup">
+        <img src="{{page.image_url}}" />
+        <div class="image-popup-content">
+          <div class="image-popup-title">
+            {{ page.title }}
+          </div>
+          <div class="image-popup-meta">
+            <div class="image-popup-medium">
+              {{ page.medium }}
+            </div>
+            <div class="image-popup-size">
+              {{ page.size }}
+            </div>
+          </div>
+          <div class="image-popup-verse">
+            {{ content }}
+          </div>
+          <div class="image-popup-author">
+            By Sudha Madhavan
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

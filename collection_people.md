@@ -6,6 +6,7 @@ paintings:
   - name: The Bhutanese Man
     image_path: "/images/the-bhutanese-man.jpg"
     thumbnail_path: "/images/the-bhutanese-man-960x640.jpg"
+    popup_path: "/image-popups/the-bhutanese-man.html"
   - name: Mother and Infant
     image_path: "/images/mother-and-infant.jpg"
     thumbnail_path: "/images/mother-and-infant-960x640.jpg"
