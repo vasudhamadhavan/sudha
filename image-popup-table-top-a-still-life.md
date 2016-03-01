@@ -3,7 +3,7 @@ layout: image_popup
 permalink: 'image-popups/table-top-a-still-life.html'
 title: 'Table Top'
 medium: 'Oil on Canvas'
-painting_size: '20" x 30"'
+painting_size: '30" x 20"'
 image_url: '/images/table-top-a-still-life.jpg'
 ---
 

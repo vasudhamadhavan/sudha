@@ -2,6 +2,8 @@
 layout: image_popup
 permalink: 'image-popups/arches-of-the-holy.html'
 title: 'Arches of the Holy, The Cathedral of Canterbury'
+medium: 'Oil on Canvas'
+painting_size: '24" x 36"'
 image_url: '/images/arches-of-the-holy.jpg'
 ---
 

@@ -22,7 +22,11 @@
               {{ content }}
             </div>
             <div class="image-popup-author">
-              By Sudha Madhavan
+              {% if page.attribution %}
+                {{ page.attribution }}
+              {% else %}
+                By Sudha Madhavan
+              {% endif %}
             </div>
           {% endif %}
         </div>

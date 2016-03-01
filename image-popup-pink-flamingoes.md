@@ -2,6 +2,8 @@
 layout: image_popup
 permalink: 'image-popups/pink-flamingoes.html'
 title: 'Pink Flamingoes'
+medium: 'Oil on Canvas'
+painting_size: '48" x 36"'
 image_url: '/images/pink-flamingoes.jpg'
 ---
 
