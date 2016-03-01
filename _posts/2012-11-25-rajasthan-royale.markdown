@@ -1,7 +1,7 @@
 ---
 layout: writings
 title:  "Rajasthan Royale"
-image_path: '/images/2014-11-09-heady-roma.jpg'
+image_path: '/images/2012-11-25-rajasthan-royale.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on November 25, 2012'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: writings
 title:  "CWG mess: Lacking a sense of national pride"
-image_path: '/images/2014-11-09-heady-roma.jpg'
+image_path: '/images/2010-10-01-cwg-mess.jpg'
 published_in: 'Panorama, Deccan Herald on October 1, 2010'
 ---
 

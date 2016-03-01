@@ -1,7 +1,7 @@
 ---
 layout: writings
 title:  'Finding a middle ground between man and nature'
-image_path: '/images/2015-09-27-life-on-a-lake.jpg'
+image_path: '/images/2015-08-11-finding-middle-ground.jpg'
 published_in: 'Spectrum, Deccan Herald on August 11, 2015'
 ---
 

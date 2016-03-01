@@ -1,7 +1,7 @@
 ---
 layout: writings
 title:  'My World of Colors'
-image_path: '/images/2014-11-09-heady-roma.jpg'
+image_path: '/images/2009-07-20-my-world-of-colors.jpg'
 published_in: 'Edit Page, Deccan Herald on July 20, 2009'
 ---
 
