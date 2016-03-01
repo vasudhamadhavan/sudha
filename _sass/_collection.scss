@@ -6,6 +6,7 @@ $collection-nav-item-total-width: ($collection-nav-item-width + $collection-nav-
 $thumbnail-gutter-width: 16px;
 
 .collection {
+  padding-bottom: 100px;
   .collection-nav {
     margin: 40px auto 20px;
     width: $collection-nav-item-total-border + $collection-nav-item-total-width;
