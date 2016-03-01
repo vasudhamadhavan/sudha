@@ -33,3 +33,66 @@
 .post-item-content-read-more {
   text-decoration: none;
 }
+
+/**
+ * Posts
+ */
+
+.post {
+  width: 80%;
+  margin: 0 auto;
+  background: white;
+}
+
+.post-image {
+  margin-bottom: 50px;
+}
+
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    margin-bottom: 5px;
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content-wrapper {
+  padding: 0 30px 30px;
+}
+
+.post-content {
+    font-size: 1.1em;
+    margin-bottom: $spacing-unit;
+    line-height: 1.5em;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+}

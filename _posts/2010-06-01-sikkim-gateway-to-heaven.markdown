@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "Sikkim - Gateway to Heaven"
 image_path: '/images/2010-06-01-sikkim-gateway-to-heaven.jpg'
 published_in: 'Metro Plus, The Hindu on June 01, 2010'

@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'History amid ruins'
 image_path: '/images/2014-06-15-history-amid-ruins.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on June 15, 2014'

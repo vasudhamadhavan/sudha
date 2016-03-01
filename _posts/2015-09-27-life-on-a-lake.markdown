@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Life on a Lake'
 image_path: '/images/2015-09-27-life-on-a-lake.jpg'
 published_in: 'Articulations, Sunday Herald on September 27, 2015'

@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "Temples of South India"
 image_path: '/images/2012-06-03-temples-of-south-india.jpg'
 published_in: 'Articulations, Deccan Herald on June 03, 2012'

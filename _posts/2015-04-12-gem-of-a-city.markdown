@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Gem of a City'
 image_path: '/images/2015-04-12-gem-of-a-city.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on June 21, 2015'

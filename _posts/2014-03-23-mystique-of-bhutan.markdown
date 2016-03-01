@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Mystique of Bhutan'
 image_path: '/images/2014-03-23-mystique-of-bhutan.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on March 23, 2014'

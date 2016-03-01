@@ -1,11 +1,11 @@
 ---
-layout: writings
+layout: post
 title:  'Finding a middle ground between man and nature'
 image_path: '/images/2015-08-11-finding-middle-ground.jpg'
 published_in: 'Spectrum, Deccan Herald on August 11, 2015'
 ---
 
-On the outskirts of Auroville near Puducherry lies a beautiful oasis called Sadhana Forest. A brainchild of Yorit and Aviram Rozin, this forest was conceived in 2003 as an effort to regenerate 70 acres of barren land. <!--more-->  Originally a part of the forest trail that stretched from Northern Tamil Nadu to Kanyakumari, this piece of land had turned into a wasteland due to extreme deforestation.
+On the outskirts of Auroville near Puducherry lies a beautiful oasis called Sadhana Forest. A brainchild of Yorit and Aviram Rozin, this forest was conceived in 2003 as an effort to regenerate 70 acres of barren land. Originally a part of the forest trail that stretched from Northern Tamil Nadu to Kanyakumari, this piece of land had turned into a wasteland due to extreme deforestation. <!--more-->
 
 Looking at the barren land, Yorit and Aviram found an opportunity to bring about ecological transformation by restoring the ecosystem back to its vibrant health. They also realised that by doing so, they could make the surrounding villages sustainable through eco-friendly farming practices and stopping migration to other cities in search of employment.
 
@@ -35,4 +35,4 @@ Sadhana Forest runs entirely on the efforts of volunteers who work both short te
 
 Giving something back to our Mother Nature doesn't need great ideas and expensive mechanisms. Start simple. Start easy. As Aviram puts it, 'If one has a roof over one's head, the sky is the limit.'
 
-You can contact Sadhana Forest at www.sadhanaforest.org.
+You can contact Sadhana Forest at [www.sadhanaforest.org](http://www.sadhanaforest.org).

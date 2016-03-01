@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "Rajasthan Royale"
 image_path: '/images/2012-11-25-rajasthan-royale.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on November 25, 2012'

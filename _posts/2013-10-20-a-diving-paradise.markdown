@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'A Diving Paradise'
 image_path: '/images/2013-10-20-a-diving-paradise.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on October 20, 2013'

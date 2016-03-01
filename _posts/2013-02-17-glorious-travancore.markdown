@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Glorious Travancore'
 image_path: '/images/2013-02-17-glorious-travancore.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on February 17, 2013'

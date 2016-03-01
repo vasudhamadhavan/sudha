@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Land of Pagodas'
 image_path: '/images/2015-06-21-land-of-pagodas.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on June 21, 2015'

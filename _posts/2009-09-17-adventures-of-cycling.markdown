@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "Adventures of Cycling"
 image_path: '/images/2009-09-17-adventures-of-cycling.jpg'
 published_in: 'Edit Page, Deccan Herald on September 17, 2009'

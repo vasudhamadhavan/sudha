@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "Heady Roma"
 image_path: '/images/2014-11-09-heady-roma.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on November 11, 2014'

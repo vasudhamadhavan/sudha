@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  "CWG mess: Lacking a sense of national pride"
 image_path: '/images/2010-10-01-cwg-mess.jpg'
 published_in: 'Panorama, Deccan Herald on October 1, 2010'
