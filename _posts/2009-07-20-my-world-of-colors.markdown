@@ -7,7 +7,7 @@ published_in: 'Edit Page, Deccan Herald on July 20, 2009'
 
 The past year and more, my earthly existence has been submerged in a world almost totally overridden by a haze of colours. Colours define all things including the ones that had other connotations in my life.
 
-Wherever I turn, whatever I look at, my myopic brain registers only shades and tones and the play of light and shadow. <!--more--> Suddenly, I find myself at the level of an infant or a slightly retarded adult whose skills have been reduced to the one-dimensional. All other details happily escape me. I flit and I float (I couldn’t resist that) dreamily in a world that is increasingly impacting me on a whole new level.
+Wherever I turn, whatever I look at, my myopic brain registers only shades and tones and the play of light <!--more--> and shadow. Suddenly, I find myself at the level of an infant or a slightly retarded adult whose skills have been reduced to the one-dimensional. All other details happily escape me. I flit and I float (I couldn’t resist that) dreamily in a world that is increasingly impacting me on a whole new level.
 
 I take my morning walks gazing evermore at the trees with the sunlight streaming through, tripping over things that rise up sneakily in my way. The nightly strolls leave me enthralled, what with the leisurely clouds and the magical moon as I step over a snake here and a frog there.
 
