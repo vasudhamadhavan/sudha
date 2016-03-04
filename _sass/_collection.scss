@@ -3,7 +3,7 @@ $collection-nav-item-padding: 25px;
 $collection-nav-item-width: 40px;
 $collection-nav-item-total-border: (1px * $collection-nav-item-count) + 1;
 $collection-nav-item-total-width: ($collection-nav-item-width + $collection-nav-item-padding * 2) * $collection-nav-item-count;
-$thumbnail-gutter-width: 16px;
+$thumbnail-gutter-width: 15px;
 
 .collection {
   padding-bottom: 100px;
