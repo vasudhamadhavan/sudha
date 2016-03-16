@@ -17,6 +17,22 @@
     background-size: cover;
   }
 
+  .about-social-links {
+    float: right;
+    margin-top: - 100px;
+    a {
+      margin-left: 20px;
+      color: #111;
+      text-decoration: none;
+      &:hover {
+        color: white;
+      }
+    }
+    i {
+      font-size: 2em;
+    }
+  }
+
   .about-description {
     width: 50%;
     margin: 0 auto;
