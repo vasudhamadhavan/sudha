@@ -4,7 +4,9 @@ title: About Sudha Madhavan
 permalink: /about/
 ---
 
-Sudha Madhavan specialises in the classical school of art and her much favoured subjects are derived from her travels. She picks the subjects for her art work from those remarkable experiences from her travels that have moved her and have a story to tell. She thus captures the essence of the places she travels to and the people she meets during her journeys in her art and as such, each of her works is a "cultural snapshot". The wide variations in culture between Rajasthan and Ladakh or Tamilnadu experienced by the artist are both thrilling and thought provoking. Coming from the Classical school of art, Sudha Madhavan brings a keen eye to detail and an ability to capture the inner soul of her subject in her work.
+Sudha Madhavan specialises in the classical school of art and her much favoured subjects are derived from her travels. She picks the subjects for her art work from those remarkable experiences from her travels that have moved her and have a story to tell. She thus captures the essence of the places she travels to and the people she meets during her journeys in her art and as such, each of her works is a "cultural snapshot". 
+
+The wide variations in culture between Rajasthan and Ladakh or Tamilnadu experienced by the artist are both thrilling and thought provoking. Coming from the Classical school of art, Sudha Madhavan brings a keen eye to detail and an ability to capture the inner soul of her subject in her work.
 
 This project has its genesis in Sudha's travels and explorations in various parts of India and abroad. The paintings show the immense beauty in simple things like the traditional morning tea service in Sikkim or the grandeur of the Canterbury Cathedral in England recreated by the artist on canvas with sublime perfection. Each artwork presented in this collection has taken an average of 3-4 months to create, and is a labor of love. To complete her own experience as well as satiate the viewer's curiosity, she accompanies almost all her pieces with verses written by her and anecdotal details about each subject.
 
