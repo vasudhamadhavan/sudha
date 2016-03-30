@@ -16,4 +16,28 @@ body {
     left: 0;
     z-index: -99999;
   }
+
+  .home-exhibition-list {
+    margin: 50px 0;
+    padding: 30px 20px;
+    width: 300px;
+    list-style: none;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    font-family: $header-font-family;
+  }
+
+  .home-exhibition-list-title {
+    margin-bottom: 25px;
+  }
+
+  .home-exhibition-item {
+    margin-bottom: 30px;
+    line-height: 1.4em;
+  }
+
+  .home-exhibition-item-name {
+    font-weight: bolder;
+    font-size: 1.1em;
+  }
 }
