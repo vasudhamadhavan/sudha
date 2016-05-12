@@ -31,6 +31,20 @@ body {
     margin-bottom: 25px;
   }
 
+  .home-exhibition-item-link {
+    color: white;
+    &:visited {
+      color: white;
+    }
+  }
+
+  .home-exhibition-list-subtitle {
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    color: #FF8C00;
+  }
+
   .home-exhibition-item {
     margin-bottom: 30px;
     line-height: 1.4em;
