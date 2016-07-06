@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: post
 title:  'Floored in Florence'
 image_path: '/images/2016-04-03-floored-in-florence.jpg'
 published_in: 'Articulations, Sunday Herald on April 3, 2016'
