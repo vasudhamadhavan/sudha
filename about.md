@@ -4,7 +4,7 @@ title: About Sudha Madhavan
 permalink: /about/
 ---
 
-Sudha Madhavan specialises in the classical school of art and her much favoured subjects are derived from her travels. She picks the subjects for her art work from those remarkable experiences from her travels that have moved her and have a story to tell. She thus captures the essence of the places she travels to and the people she meets during her journeys in her art and as such, each of her works is a "cultural snapshot". 
+Sudha Madhavan is a Travel Writer, Freelance Journalist and Artist based in Bangalore. Sudha Madhavan specialises in the classical school of art and her much favoured subjects are derived from her travels. She picks the subjects for her art work from those remarkable experiences from her travels that have moved her and have a story to tell. She thus captures the essence of the places she travels to and the people she meets during her journeys in her art and as such, each of her works is a "cultural snapshot". 
 
 The wide variations in culture between Rajasthan and Ladakh or Tamilnadu experienced by the artist are both thrilling and thought provoking. Coming from the Classical school of art, Sudha Madhavan brings a keen eye to detail and an ability to capture the inner soul of her subject in her work.
 
