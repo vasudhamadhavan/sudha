@@ -116,10 +116,6 @@ It is buzzing with local clientele who are carrying away precious loads of some 
 
 No additives, no colours, no emulsifiers and no preservatives—this may sound like one of those heavily marketed new-age brands, but that is how it is. Cacao beans, cinnamon and almonds are put together with quantities of sugar through the grinder. Variants are available without almonds, without sugar, with vanilla and so on.
 
-Ingredients for chocolate at Cafe Mayordomo. Photo: Sudha Madhavan
-
-Ingredients for chocolate at Cafe Mayordomo. Photo: Sudha Madhavan
-
 We watch goggle-eyed as fresh, untempered chocolate is readied for us, with cinnamon, almond and sugar, double ground and of the most delightful taste. We go also for boxes of the pure chocolate, the Clasico and the Nuez (walnut).
 
 As we look up, there is a large picture on the wall of a native Indian warrior drinking reverently from a cacao shell, holding reassuringly onto cacao pod and seated under, what else, a cacao tree.
