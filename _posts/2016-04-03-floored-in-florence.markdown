@@ -3,6 +3,7 @@ layout: post
 title:  'Floored in Florence'
 image_path: '/images/2016-04-03-floored-in-florence.jpg'
 published_in: 'Articulations, Sunday Herald on April 3, 2016'
+published_url: http://www.deccanherald.com/content/538169/and-statue.html
 ---
 
 Florence, the capital of Tuscany, is the land of vineyards and olives, of course. But it’s also the birthplace of the Renaissance and houses the Uffizi Gallery, the art museum marked for its vast collection of paintings and statues.

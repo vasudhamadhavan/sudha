@@ -3,6 +3,7 @@ layout: post
 title:  'Life on a Lake'
 image_path: '/images/2015-09-27-life-on-a-lake.jpg'
 published_in: 'Articulations, Sunday Herald on September 27, 2015'
+published_url: http://www.deccanherald.com/content/503025/life-lake.html
 ---
 
 As one travels farther, one finds that in similar ecospheres the ways of livelihood, customs and modes of communication manifest a thousand different shades. And therein lies the wonder of travelling.

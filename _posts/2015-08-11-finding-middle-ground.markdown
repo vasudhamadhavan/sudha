@@ -3,6 +3,7 @@ layout: post
 title:  'Finding a middle ground between man and nature'
 image_path: '/images/2015-08-11-finding-middle-ground.jpg'
 published_in: 'Spectrum, Deccan Herald on August 11, 2015'
+published_url: http://www.deccanherald.com/content/494470/finding-middle-ground-man-nature.html
 ---
 
 On the outskirts of Auroville near Puducherry lies a beautiful oasis called Sadhana Forest. A brainchild of Yorit and Aviram Rozin, this forest was conceived in 2003 as an effort to regenerate 70 acres of barren land. Originally a part of the forest trail that stretched from Northern Tamil Nadu to Kanyakumari, this piece of land had turned into a wasteland due to extreme deforestation. <!--more-->

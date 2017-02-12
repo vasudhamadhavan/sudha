@@ -3,6 +3,7 @@ layout: post
 title:  'Our place, ourselves'
 image_path: '/images/2017-01-15-our-place-ourselves.jpg'
 published_in: 'Articulations, Deccan Herald on January 15, 2017'
+published_url: 'http://www.deccanherald.com/content/591485/our-place-ourselves.html'
 ---
 
 Some 20 km away from Kohima is this serene Naga village of Khonoma, inhabited mainly by the Angami Naga tribe. <!--more-->

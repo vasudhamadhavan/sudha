@@ -3,6 +3,7 @@ layout: post
 title:  'Of clay pots, mezcals and cacao in Mexico'
 image_path: '/images/2016-12-17-of-clay-pots.jpg'
 published_in: 'Mint on Sunday, www.livemint.com on December 17, 2016'
+published_url: http://www.livemint.com/Sundayapp/M3x8ZEOumjcnPwUFeUnAqO/Of-clay-pots-mezcal-and-cacao-in-Mexico.html
 ---
 
 Oaxaca (wah-ha-ka) de Juárez—the capital city of Oaxaca, one of the 31 states of Mexico, situated at its belly in the south—has its own ecosystem while yet being quintessentially of a Mexican flavour.

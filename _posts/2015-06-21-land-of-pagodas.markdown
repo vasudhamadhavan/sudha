@@ -3,6 +3,7 @@ layout: post
 title:  'Land of Pagodas'
 image_path: '/images/2015-06-21-land-of-pagodas.jpg'
 published_in: 'Sunday Herald Travel, Deccan Herald on June 21, 2015'
+published_url: http://www.deccanherald.com/content/484735/land-pagodas.html
 ---
 
 I had seen along my travels monasteries and pagodas quite a few and had a lukewarm response to the plan to visit Bagan... I could not have been more wrong. The 55 kings of the Myanmar dynasty ruled over a period of 12 centuries.  The kingdom towards the latter half shifted its capital to Bagan in 874 AD at the time of King Pyinbya, who also erected the city walls of Bagan with 12 gates and a moat.<!--more-->   King Thamudrit founded the dynasty in 108 AD and by the end of the 13th century, the kingdom was fading from the pages of history... devastated and destroyed by Chinese invaders... the king himself dismantling some of the structures to build the fort walls for security.
@@ -44,7 +45,7 @@ Yangon to Bagan is an approximate distance of 625 km and overnight buses are ava
 Best time
 September to March is the ideal time as the weather is pleasant. Summers can be hot.
 
-Stay  
+Stay
 There are excellent places to stay and the hospitality is good.
 
 What to buy

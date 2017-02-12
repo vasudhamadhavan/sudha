@@ -3,6 +3,7 @@ layout: post
 title:  'Oh! Oaxaca'
 image_path: '/images/2016-10-07-oh-oaxaca.jpg'
 published_in: 'Sunday Herald, Deccan Herald on August 7, 2016'
+published_url: http://www.deccanherald.com/content/562710/oh-oaxaca.html
 ---
 
 A place’s pride rests, among other things, in its name being spoken right. With Oaxaca, where I begin my Mexican journey, my first concern is to be able to pronounce it right.

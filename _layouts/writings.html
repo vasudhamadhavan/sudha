@@ -12,7 +12,11 @@ layout: default
             {{ post.title }}
           </div>
           <div class="post-item-content-published-in">
-            {{ post.published_in }}
+            {% if post.published_url %}
+              <a target="_blank" href="{{ post.published_url }}">{{ post.published_in }}</a>
+            {% else %}
+              {{ post.published_in }}
+            {% endif %}
           </div>
           <div class="post-item-content-blurb">
             {{ post.excerpt | strip_html }}
